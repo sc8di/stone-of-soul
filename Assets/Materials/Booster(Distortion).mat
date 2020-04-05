@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Booster(Distortion)
+  m_Shader: {fileID: -6465566751694194690, guid: cd22d5ead19899141ae7a2378f91e782,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_40EB361A:
+        m_Texture: {fileID: 2800000, guid: a91d667b56b45d948af5c69913637dc2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_DF970620:
+        m_Texture: {fileID: 2800000, guid: 135707669208ba14a98095c69cabfd76, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8B204FBF_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_9280ACB: 0
+    - _distortionPower: 0.75
+    m_Colors:
+    - Color_BF1D6348: {r: 4.78112, g: 1.3886119, b: 0, a: 0.6117647}
+    - Vector2_BBAB0422: {r: -0.35, g: 0.35, b: 0, a: 0}

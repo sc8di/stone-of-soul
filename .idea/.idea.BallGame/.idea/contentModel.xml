@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sc8di\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sc8di\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_BallGame.71222717.00" t="ExcludeRecursive" />
+    <e p="E:\Handmade Games\9\BallGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="CameraController.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="University.shader" t="Include" />
+        </e>
+        <e p="tripolygon" t="Include">
+          <e p="UModeler" t="Include">
+            <e p="Materials" t="Include">
+              <e p="Basic" t="Include">
+                <e p="UModeler_UnlitVertexColorShader.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BallGame.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
