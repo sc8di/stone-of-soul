@@ -19,8 +19,10 @@
       <Path>ProjectSettings</Path>
     </explicitIncludes>
     <explicitExcludes>
+      <Path>.git</Path>
       <Path>.idea</Path>
       <Path>.vs</Path>
+      <Path>ExportedObj</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>

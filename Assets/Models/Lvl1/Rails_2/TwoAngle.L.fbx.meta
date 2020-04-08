@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: a295b6b940b6d154aa261fe54f354a7a
+guid: f6ff3dc1719babc4bb584a917ca3f1c1
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipe
+    second: {fileID: 2100000, guid: a42d223449621c442b042997729b32f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rail
+    second: {fileID: 2100000, guid: 729d5483332c24140ae36b8ac4e571ed, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Emisson
+  m_Name: Emission_Blue
   m_Shader: {fileID: -6465566751694194690, guid: a0b1a5eedd3a4a744b5615d604c3c261,
     type: 3}
   m_ShaderKeywords: 
@@ -59,7 +59,7 @@ Material:
     m_Colors:
     - Color_40391C59: {r: 0, g: 47.937256, b: 47.937256, a: 1}
     - Color_5F355FF5: {r: 0, g: 0, b: 0, a: 1}
-    - _Color: {r: 0, g: 61.43213, b: 64, a: 0}
+    - _Color: {r: 0, g: 65.30894, b: 67.79352, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _color: {r: 0, g: 0, b: 0, a: 0}
